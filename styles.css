@@ -1,0 +1,12 @@
+body {
+    font-family: georgia, sans-serif;
+    margin: 180;
+    padding: 70;
+    background-color: #ffffff;
+}
+
+header {
+    background: #0066ff;
+    color: #f3f3f3;
+    padding: 12;
+}
